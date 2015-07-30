@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>2B469092-00C2-49C5-91B6-974FB970B868</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>GithubLes</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>1BA586665EA3221834A518AD9E540EC127FF31E5</key>
 		<string>https://github.com/ljvis/lesGithub.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>GithubLes/GithubLes.xcodeproj/project.xcworkspace</string>
+	<string>GithubLes/GithubLes.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>1BA586665EA3221834A518AD9E540EC127FF31E5</key>
