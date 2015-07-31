@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6023277C1B6B4BD900F8B3C1 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6023277B1B6B4BD900F8B3C1 /* File.swift */; };
 		60C552B51B6A22AA00A00B41 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60C552B41B6A22AA00A00B41 /* AppDelegate.swift */; };
 		60C552B71B6A22AA00A00B41 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60C552B61B6A22AA00A00B41 /* ViewController.swift */; };
 		60C552BA1B6A22AA00A00B41 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60C552B81B6A22AA00A00B41 /* Main.storyboard */; };
@@ -27,7 +26,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		6023277B1B6B4BD900F8B3C1 /* File.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		60C552AF1B6A22AA00A00B41 /* GithubLes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GithubLes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60C552B31B6A22AA00A00B41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		60C552B41B6A22AA00A00B41 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -81,7 +79,6 @@
 			children = (
 				60C552B41B6A22AA00A00B41 /* AppDelegate.swift */,
 				60C552B61B6A22AA00A00B41 /* ViewController.swift */,
-				6023277B1B6B4BD900F8B3C1 /* File.swift */,
 				60C552B81B6A22AA00A00B41 /* Main.storyboard */,
 				60C552BB1B6A22AA00A00B41 /* Images.xcassets */,
 				60C552BD1B6A22AA00A00B41 /* LaunchScreen.xib */,
@@ -216,7 +213,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				60C552B71B6A22AA00A00B41 /* ViewController.swift in Sources */,
-				6023277C1B6B4BD900F8B3C1 /* File.swift in Sources */,
 				60C552B51B6A22AA00A00B41 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -415,7 +411,6 @@
 				60C552D01B6A22AA00A00B41 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		60C552D11B6A22AA00A00B41 /* Build configuration list for PBXNativeTarget "GithubLesTests" */ = {
 			isa = XCConfigurationList;
@@ -424,7 +419,6 @@
 				60C552D31B6A22AA00A00B41 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
